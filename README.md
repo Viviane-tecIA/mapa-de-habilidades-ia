@@ -16,8 +16,9 @@
 
 ### ✅ Habilidades Identificadas:
 * **Gestão de Tempo:** Experiência real gerindo uma rotina familiar numerosa.
-* **Resolução de Problemas:** Foco em soluções rápidas.
-* **Tecnologias em Aprendizado:** Introdução ao Python e ferramentas de IA como ChatGPT e **Microsoft Copilot**.
+* **Resolução de Problemas:** Foco em soluções eficazes.
+* **Ferramentas de IA:** Uso prático de ChatGPT e **Microsoft Copilot**.
+* **Objetivo de Estudo:** Aprender Python para automação no futuro.
 
 ---
 
@@ -26,9 +27,9 @@
 
 * **Alguém pagaria por isso?** (x) Sim | ( ) Não
 * **Existe demanda para essa habilidade em IA?**
-  * Sim, o mercado precisa de pessoas que saibam usar IA para organizar processos e aumentar a produtividade.
+  * Sim, o mercado busca profissionais que saibam usar IA para organizar processos e produtividade.
 * **Essa habilidade resolve algum problema comum?**
-  * Sim, ajuda a organizar fluxos de trabalho e automatizar tarefas repetitivas.
+  * Sim, ajuda a organizar fluxos de trabalho através da automação inteligente.
 
 ---
 
@@ -38,7 +39,7 @@
 ### 🚀 Canais que pretendo explorar:
 - [x] **Freelancer:** Pesquisar oportunidades em plataformas como Workana ou 99Freelas.
 - [x] **Marca Pessoal:** Usar o LinkedIn para mostrar minha evolução nos estudos de IA.
-- [x] **Portfólio:** Construir este GitHub com meus projetos de aprendizagem.
+- [x] **Portfólio:** Manter este GitHub atualizado.
 
 **Como a IA vai me ajudar nesta etapa?**
-> Utilizarei o **Copilot** para me ajudar a entender códigos de programação e a criar textos profissionais para atrair clientes.
+> Utilizarei o **Copilot** para me ajudar a organizar meus estudos e a criar textos profissionais para atrair clientes.
